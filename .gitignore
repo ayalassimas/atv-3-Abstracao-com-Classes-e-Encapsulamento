@@ -1,0 +1,22 @@
+# Arquivos compilados
+*.class
+*.jar
+*.war
+*.ear
+
+# Pastas de build
+target/
+build/
+out/
+
+# IDEs
+.idea/
+*.iml
+.project
+.classpath
+.settings/
+.vscode/
+
+# Sistemas operacionais
+.DS_Store
+Thumbs.db
